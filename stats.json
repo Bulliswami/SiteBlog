@@ -5,12 +5,12 @@
       "path---pandas-and-bananas-copy-c3ec106e398d4607c9ca.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-cc37e551506d999a8f9d.js",
-      "component---src-pages-index-js-cc37e551506d999a8f9d.js.map"
+      "component---src-pages-index-js-1b2817b78f34ba61921c.js",
+      "component---src-pages-index-js-1b2817b78f34ba61921c.js.map"
     ],
     "path---blog": [
-      "path---blog-f6bfef7524275039c852.js",
-      "path---blog-f6bfef7524275039c852.js.map"
+      "path---blog-d33c80369ea0f5a4559a.js",
+      "path---blog-d33c80369ea0f5a4559a.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -30,7 +30,9 @@
     ],
     "commons": [
       "commons-5115daf00a2f0359f6ce.js",
-      "commons-5115daf00a2f0359f6ce.js.map"
+      "build-js-styles.css",
+      "commons-5115daf00a2f0359f6ce.js.map",
+      "build-js-styles.css.map"
     ],
     "path---pandas-and-bananas": [
       "path---pandas-and-bananas-b3ce60024787ff23dce2.js",
@@ -45,8 +47,10 @@
       "path---sweet-pandas-eating-sweets-765a0771e51424303639.js.map"
     ],
     "app": [
-      "app-1c99ad1e28a45c86226a.js",
-      "app-1c99ad1e28a45c86226a.js.map"
+      "app-5cdcb6bdcb4c32365328.js",
+      "build-js-styles.css",
+      "app-5cdcb6bdcb4c32365328.js.map",
+      "build-js-styles.css.map"
     ],
     "path---sweet-pandas-eating-sweets-copy": [
       "path---sweet-pandas-eating-sweets-copy-8d6b0f1a2eb2eab2c334.js",
