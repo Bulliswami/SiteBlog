@@ -1,0 +1,52 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-cc37e551506d999a8f9d.js",
+      "component---src-pages-index-js-cc37e551506d999a8f9d.js.map"
+    ],
+    "path---blog": [
+      "path---blog-43969869d02b74133195.js",
+      "path---blog-43969869d02b74133195.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-3152139d2c760ee5d129.js",
+      "component---src-templates-blog-post-js-3152139d2c760ee5d129.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-ac545cc241480617296e.js",
+      "component---src-layouts-index-js-ac545cc241480617296e.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "commons": [
+      "commons-5115daf00a2f0359f6ce.js",
+      "commons-5115daf00a2f0359f6ce.js.map"
+    ],
+    "path---pandas-and-bananas": [
+      "path---pandas-and-bananas-b3ce60024787ff23dce2.js",
+      "path---pandas-and-bananas-b3ce60024787ff23dce2.js.map"
+    ],
+    "component---src-pages-blog-js": [
+      "component---src-pages-blog-js-eba243949815206b26fc.js",
+      "component---src-pages-blog-js-eba243949815206b26fc.js.map"
+    ],
+    "path---sweet-pandas-eating-sweets": [
+      "path---sweet-pandas-eating-sweets-765a0771e51424303639.js",
+      "path---sweet-pandas-eating-sweets-765a0771e51424303639.js.map"
+    ],
+    "app": [
+      "app-6a353843f011cde47443.js",
+      "app-6a353843f011cde47443.js.map"
+    ],
+    "path---sweet-pandas-eating-sweets-copy": [
+      "path---sweet-pandas-eating-sweets-copy-8d6b0f1a2eb2eab2c334.js",
+      "path---sweet-pandas-eating-sweets-copy-8d6b0f1a2eb2eab2c334.js.map"
+    ]
+  }
+}
