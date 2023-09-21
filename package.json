@@ -1,8 +1,11 @@
 {
+  "homepage": "https://Bulliswami.github.io/SiteBlog",
   "name": "gatsbyjs-markdown-blog",
   "description": "Gatsby blog made referring to tutorial 4 from the Official site.",
   "license": "MIT",
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
@@ -17,5 +20,8 @@
     "gatsby-transformer-remark": "^1.7.32",
     "glamorous": "^4.11.4",
     "typography-theme-kirkham": "^0.16.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
