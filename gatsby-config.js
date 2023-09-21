@@ -3,6 +3,7 @@
 // typography.js is configured using /utils/typography
 
 module.exports = {
+    pathPrefix:"/SiteBlog",
     siteMetadata: {
         title: `Pandas Eating Lots`,
     },
